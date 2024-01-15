@@ -52,19 +52,19 @@ Visit your acorn dashboard to see if your deployment was successful.
 
 Click on the baserow deployment, and find the endpoint section on the right side panel.  This is your baserow instance link.
 
-![baserow_acorn_ui]()
+![baserow_acorn_ui](https://github.com/randall-coding/baserow-acorn/assets/39175191/23c29fa6-be69-4b3d-bbbc-320e4e26382d)
 
-![baserow_endpoint]()
+![baserow_endpoints](https://github.com/randall-coding/baserow-acorn/assets/39175191/d2bff9d8-67d6-44ea-8d24-776da0973e27)
 
 ## Configure Baserow
 
 Go to your acorn baserow URL. Then you'll be prompt to create your baserow account. Enter the necessary information and click "Create my account".
 
-![base_row_account]()
+![baserow_account](https://github.com/randall-coding/baserow-acorn/assets/39175191/ad466570-ce70-4492-ad29-c9e29f8f85dd)
 
 After making the account, you'll see the main dashboard:
 
-![base_dashboard]()
+![baserow_dashboard](https://github.com/randall-coding/baserow-acorn/assets/39175191/c292460a-526a-4137-ad5a-9d75d88f8675)
 
 ### SMTP Configuration (Optional)
 
